@@ -1,3 +1,4 @@
+# escolha caso
 programa
 {
 //exercício 027 - estudonauta - mais um exemplo de casos	

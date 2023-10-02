@@ -1,4 +1,7 @@
+#caso escolha
+
 programa
+
 { //exercício Estudonauta - 026 - Casos
 	inclua biblioteca Util --> u
 	
